@@ -8,4 +8,5 @@ group :development do
 end 
 
 group :test do 
-  gem 
+  gem 'rspec'
+end 
